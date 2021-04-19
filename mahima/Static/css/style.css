@@ -1,0 +1,47 @@
+.home{
+    width:100%;
+    height:100vh;
+    position:relative;
+    overflow: hidden;
+    background: url(Home.jpeg)no-repeat;
+    background-size: cover;
+}
+.About{
+    width:100%;
+    height:100vh;
+    position:relative;
+    overflow: hidden;
+    background: url(About.jpeg)no-repeat;
+    background-size: cover;
+
+}
+.service{
+    width:100%;
+    height:100vh;
+    position:relative;
+    overflow: hidden;
+    background: url(service.jpeg)no-repeat;
+    background-size: cover;
+
+    
+}
+.contact{
+    width:100%;
+    height:100vh;
+    position:relative;
+    overflow: hidden;
+    background: url(contact.jpeg)no-repeat;
+    background-size: cover;
+
+}
+.register{
+    width:100%;
+    height:100vh;
+    position:relative;
+    overflow: hidden;
+    background: url(register.jpeg)no-repeat;
+    background-size: cover;
+    color: navy;
+    font-size: 20px;
+
+}
